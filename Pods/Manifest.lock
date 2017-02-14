@@ -1,0 +1,12 @@
+PODS:
+  - Unbox (2.1)
+
+DEPENDENCIES:
+  - Unbox
+
+SPEC CHECKSUMS:
+  Unbox: 7070b89261391fbd1a9ccb5029079a884b897a62
+
+PODFILE CHECKSUM: adcb6e46edaa2ea0c5c9fb8d50c74edb71b49bfc
+
+COCOAPODS: 1.1.0.rc.2
